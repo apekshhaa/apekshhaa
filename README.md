@@ -4,7 +4,7 @@
 <img src="https://i.imgur.com/5HfQJgK.png" alt="profile banner" width="100%" />
 
 # 👋 Hi, I'm Apeksha S
-### **Finding Bugs Before They Find Me**
+### **I find bugs before they find me**
 
 <p align="center">
   An Agentic CI/CD & Infrastructure Security Orchestrator<br/>
