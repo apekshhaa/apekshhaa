@@ -1,5 +1,5 @@
 ## Hi there 👋
-{
+```{
   "version": "1.0.0",
   "exportedAt": "2026-06-17T14:52:20.654Z",
   "profile": {
@@ -109,4 +109,4 @@
     "tailwind",
     "tensorflow"
   ]
-}
+}```
