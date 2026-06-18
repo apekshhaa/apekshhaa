@@ -7,10 +7,9 @@
 ### **I find bugs before they find me**
 Could’ve used AI for this banner. Chose chaos instead.
 
-Third-year CSBS student 
-Passionate about building intelligent systems, secure software and impactful technology.
-Usually creating solutions.
-Occasionally creating bugs.
+Im a third-year CSBS student who is passionate about building intelligent systems, secure software and impactful technology.
+Usually creating solutions,
+occasionally creating bugs.
 
 <p align="center">
   <img src="https://img.shields.io/badge/India-0e75b6?style=flat&logo=googlemaps&logoColor=white" alt="India" />
