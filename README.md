@@ -5,6 +5,7 @@
 
 # 👋 Hi, I'm Apeksha S
 ### **I find bugs before they find me**
+Could’ve used AI for this banner. Chose chaos instead.
 
 <p align="center">
   An Agentic CI/CD & Infrastructure Security Orchestrator<br/>
