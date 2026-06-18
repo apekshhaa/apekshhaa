@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Optional banner/hero image. Replace this with your own image URL if you want. -->
-<img src="https://i.imgur.com/5HfQJgK.png" alt="profile banner" width="100%" />
+<img src="https://github.com/apekshhaa/apekshhaa/blob/main/github_lofi_coder_banner.png" alt="profile banner" width="100%" />
 
 # 👋 Hi, I'm Apeksha S
 ### **I find bugs before they find me**
