@@ -7,10 +7,10 @@
 ### **I find bugs before they find me**
 Could’ve used AI for this banner. Chose chaos instead.
 
-<p align="center">
-  An Agentic CI/CD & Infrastructure Security Orchestrator<br/>
-  and Gatekeeper: Continuous Identity Verification for Zero Trust Environments
-</p>
+Third-year CSBS student 
+Passionate about building intelligent systems, secure software and impactful technology.
+Usually creating solutions.
+Occasionally creating bugs.
 
 <p align="center">
   <img src="https://img.shields.io/badge/India-0e75b6?style=flat&logo=googlemaps&logoColor=white" alt="India" />
