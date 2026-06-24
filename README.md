@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Apeksha S
 ### **I find bugs before they find me**
-Could’ve used AI for this banner. Chose chaos instead.
+Could’ve used AI for this banner.
 
 Im a third-year CSBS student who is passionate about building intelligent systems, secure software and impactful technology.
 Usually creating solutions,
