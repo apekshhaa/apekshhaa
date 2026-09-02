@@ -70,9 +70,20 @@ My project ideas are usually bigger than my available storage space.
   <img src="https://skillicons.dev/icons?i=android,arduino,aws,c,dotnet,express,firebase,flutter,git,graphql,javascript,linux,matplotlib,mongodb,nodejs,numpy,pandas,python,pytorch,react,reactnative,scikitlearn,seaborn,tailwind,tensorflow" alt="Skills" />
 </p>
 
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=apekshhaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=apekshhaa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=apekshhaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h2 align="center">GitHub Stats:</h2>
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=apekshhaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=apekshhaa&theme=dark&hide_border=false" />
+
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=apekshhaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
 
 ---
