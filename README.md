@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Profile Banner -->
-<img src="https://github.com/apekshhaa/apekshhaa/blob/main/Person_coding_at_desk_202609022115.mp4" alt="profile banner" width="100%" />
+<div align="center">
+  <img src="YOUR_GIF_URL" alt="profile banner" width="100%" />
+</div>
 
 # 👋 Hi, I'm Apeksha S
 
