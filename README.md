@@ -1,16 +1,19 @@
 <div align="center">
 
-<!-- Optional banner/hero image. Replace this with your own image URL if you want. -->
+<!-- Profile Banner -->
 <img src="https://github.com/apekshhaa/apekshhaa/blob/main/github_lofi_coder_banner.png" alt="profile banner" width="100%" />
 
 # 👋 Hi, I'm Apeksha S
+
 ### **I find bugs before they find me**
-Could’ve used AI for this banner.
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
+*Could’ve used AI for this banner.*
 
-Im a third-year CSBS student who is passionate about building intelligent systems, secure software and impactful technology.
-Usually creating solutions,
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=apekshhaa)
+
+I'm a third-year CSBS student who is passionate about building intelligent systems, secure software and impactful technology.
+
+Usually creating solutions,  
 occasionally creating bugs.
 
 <p align="center">
@@ -70,17 +73,19 @@ My project ideas are usually bigger than my available storage space.
   <img src="https://skillicons.dev/icons?i=android,arduino,aws,c,dotnet,express,firebase,flutter,git,graphql,javascript,linux,matplotlib,mongodb,nodejs,numpy,pandas,python,pytorch,react,reactnative,scikitlearn,seaborn,tailwind,tensorflow" alt="Skills" />
 </p>
 
-<h2 align="center">GitHub Stats:</h2>
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=apekshhaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
 
-<br/>
+<br><br>
 
 <img src="https://streak-stats.demolab.com/?user=apekshhaa&theme=dark&hide_border=false" />
 
-<br/>
+<br><br>
 
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=apekshhaa&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
