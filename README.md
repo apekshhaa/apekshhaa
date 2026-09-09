@@ -7,8 +7,6 @@
 
 ### **I find bugs before they find me**
 
-*Could’ve used AI for this banner.*
-
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=apekshhaa)
 
 I'm a third-year CSBS student who is passionate about building intelligent systems, secure software and impactful technology.
