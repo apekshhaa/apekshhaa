@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Profile Banner -->
-<img src="./Person_coding_at_desk_202609022115.gif" alt="profile banner" width="100%" />
-
 # 👋 Hi, I'm Apeksha S
 
 ### **I find bugs before they find me**
