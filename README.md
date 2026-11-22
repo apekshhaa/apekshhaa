@@ -1,63 +1,34 @@
 <h1 align="center">Apeksha S</h1>
 
 <p align="center">
-  Security-minded developer building AI agents and secure systems.<br/>
-  Third-year CSBS student · India
+  Full-stack developer · Security & systems enthusiast<br/>
+  CSBS undergraduate at St. Joseph Engineering College, Mangalore
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/apeksh4"><img src="https://img.shields.io/badge/LinkedIn-apeksh4-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:apekshhaa@gmail.com"><img src="https://img.shields.io/badge/Email-apekshhaa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://instagram.com/apekshaakulal"><img src="https://img.shields.io/badge/Instagram-apekshaakulal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
 
 ### About
 
-I work at the intersection of **cybersecurity** and **AI**, and I like turning ideas into working products. Most of my time goes into red teaming, security automation, and full-stack development, with a growing interest in Linux internals and backend systems that scale.
+I build end-to-end products with React, TypeScript, Node.js and MongoDB/PostgreSQL, backed by solid fundamentals in databases, concurrency and systems programming in Go. I like debugging problems down to the root cause.
 
-### Currently building
+### Currently working on
 
-| Project | What it is |
-| --- | --- |
-| **Agentic CI/CD & Infrastructure Security Orchestrator** | AI agents that automate security checks across pipelines and infrastructure |
-| **Gatekeeper** | Continuous identity verification for Zero Trust environments |
-
-### Currently learning
-
-`Red Teaming` · `AI Agents` · `Security Automation` · `MERN Stack` · `Linux Internals` · `Scalable Backends`
+**Gosh** is a multi-seller thrift marketplace where sellers list second-hand clothing and manage their own inventory. I'm building it as co-founder and developer.
 
 ### Tech stack
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=python,c,javascript,dotnet" alt="Languages" />
-
-**Web & Backend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,graphql,firebase" alt="Web and backend" />
-
-**AI & Data**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,numpy,pandas,matplotlib" alt="AI and data" />
-
-**Tools & Platforms**<br/>
-<img src="https://skillicons.dev/icons?i=linux,git,aws,arduino,flutter,reactnative" alt="Tools and platforms" />
-
-### Open to collaborating on
-
-- Security tools and red team projects
-- AI-powered developer applications
-- Full-stack web apps
-- Open source projects that solve real problems
+<img src="https://skillicons.dev/icons?i=js,ts,go,py,java,c,html,css,nodejs,express,react,nextjs,vite,tailwind,fastapi,docker,git,mongodb,postgres,mysql,redis,firebase,tensorflow,opencv" alt="Tech stack" />
 
 ### GitHub stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.shion.dev/api?username=apekshhaa&theme=transparent&hide_border=true&show_icons=true" alt="GitHub stats" />
   <img height="160" src="https://github-readme-stats.shion.dev/api/top-langs/?username=apekshhaa&theme=transparent&hide_border=true&layout=compact" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=apekshhaa&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
